@@ -12,7 +12,7 @@ I'm still not _totally_ sure what I wanna do for these other 4 pages, so bear wi
 
 | Page Number | Description |
 | ---         |---          |
-| [2](Band Page.md)| Sliced Bread: the band| 
+| [2](Band Page.md) | Sliced Bread: the band| 
 | [3]()       |             |
 | [4]()       |             |
 | [5]()       |             |
