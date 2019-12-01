@@ -57,7 +57,7 @@ class Animal:
         return self.__name
     
 ```
-**FizzBuzz IT100:**
+**FizzBuzz IT1000:**
 ```html
 <!DOCTYPE html>
 <html>
