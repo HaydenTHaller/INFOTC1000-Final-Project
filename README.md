@@ -13,6 +13,6 @@ I'm still not _totally_ sure what I wanna do for these other 4 pages, so bear wi
 | Page Number | Description |
 | ---         |---          |
 | [2](https://github.com/HaydenTHaller/INFOTC1000-Final-Project/blob/master/Band%20Page.md) | Sliced Bread: the band| 
-| [3](https://github.com/HaydenTHaller/INFOTC1000-Final-Project/blob/master/Favorite%20Code.md)       |             |
+| [3](https://github.com/HaydenTHaller/INFOTC1000-Final-Project/blob/master/Favorite%20Code.md)       | My Favorite Code from this Year|
 | [4]()       |             |
 | [5]()       |             |
