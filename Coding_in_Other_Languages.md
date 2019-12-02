@@ -10,3 +10,10 @@ Most non-english speakers who code use the standard english syntax and key words
 
 At the end of the day, code is just instructions for a machine, and with a little intuition into how computer code works most code can be followed regardless of language.
 One can certainly see how having the understanding of keywords from their use in english would give a programmer a little edge in terms of their ability to learn and understand major languages, however. 
+
+| Page Number                              | Description                         |
+| ---                                      | ---                                 |
+| [1](README.md)                           | About Me                            |
+| [2](Band_Page.md)                         | Sliced Bread: The Band              |
+| [3](Favorite_Code.md)                     | My Favorite Code so Far this Year   |
+| [5](Examples_of_Coding_in_Other_Languages.md) | Examples of Code in Other Languages |
