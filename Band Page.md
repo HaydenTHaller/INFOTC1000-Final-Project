@@ -21,3 +21,10 @@ So naturally, that's exactly what I did a little over a year ago and now here we
 - [Jet Black Alley Cat](https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ?si=Z_vqRG7FTu-fBLuCcXSlIQ)
 - [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT?si=jlBpFnqyRo-4KwnxZ5uKKw)
 - [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr?si=uptc2SrkS5ybiTHh-2kQhQ)
+
+| Page Number                              | Description                         |
+| ---                                      | ---                                 |
+| [1](README.md)                           | About Me                            |
+| [3](FavoriteCode.md)                     | My Favorite Code so Far this year   |
+| [4](CodinginOtherLanguages.md)           | Coding in Other Languages           |
+| [5](ExamplesofCodinginOtherLanguages.md) | Examples of Code in Other Languages |
