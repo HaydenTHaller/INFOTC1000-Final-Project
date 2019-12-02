@@ -94,3 +94,10 @@ function fizzbuzz() {
 
 </html>
 ```
+
+| Page Number                              | Description                         |
+| ---                                      | ---                                 |
+| [1](README.md)                           | About Me                            |
+| [2](Band_Page.md)                         | Sliced Bread: The Band              |
+| [4](Coding_in_Other_Languages.md)           | Coding in Other Languages           |
+| [5](Examples_of_Coding_in_Other_Languages.md) | Examples of Code in Other Languages |
