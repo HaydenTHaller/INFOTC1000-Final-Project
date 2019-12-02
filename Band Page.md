@@ -25,6 +25,6 @@ So naturally, that's exactly what I did a little over a year ago and now here we
 | Page Number                              | Description                         |
 | ---                                      | ---                                 |
 | [1](README.md)                           | About Me                            |
-| [3](FavoriteCode.md)                     | My Favorite Code so Far this year   |
-| [4](CodinginOtherLanguages.md)           | Coding in Other Languages           |
-| [5](ExamplesofCodinginOtherLanguages.md) | Examples of Code in Other Languages |
+| [3](Favorite Code.md)                     | My Favorite Code so Far this year   |
+| [4](Coding in Other Languages.md)           | Coding in Other Languages           |
+| [5](Examples of Coding in Other Languages.md) | Examples of Code in Other Languages |
